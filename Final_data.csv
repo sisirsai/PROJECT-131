@@ -1,4 +1,4 @@
-S No,Star_name,Distance,Mass,Radius,Discovery Year,Constellation,Acceleration due to Gravity on this Planet
+S No,Star_name,Distance,Mass in SI Units,Radius in SI Units,Discovery Year,Constellation,Acceleration due to Gravity on this Planet in SI Units
 1,SDSS J000013.54+255418.6,46.1,4.932624,0.00094504212,2004.0,Pegasus,0.0003683846412183246
 2,2MASS 0036,28.6,4.316046,0.00089731272,2000.0,Pisces,0.0003575396825495925
 3,2MASS J02431371âˆ’24,35.0,3.391179,0.00094504212,2002.0,Fornax,0.0002532644408375982
